@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+👋;I'm+Hui+Wang;A+MPhil+student+at+Monash+University" alt="Typing SVG" />
+  </a>
+</h1>
+
 Hi there!  🌈
 
 I'm a MPhil student at Monash University, interested in statistics and mathematical modelling. I really love programming and I'm learning to be a good researcher. Also, I'm becoming a qualified **MJJ** (a Chinese internet slang term for tech enthusiast).
@@ -38,6 +44,14 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 
 </details>
 
+### 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 <div align="center">
@@ -45,10 +59,25 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 <div style="display: flex; justify-content: center; gap: 10px;">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghui5801&layout=compact&theme=tokyonight&hide_border=true&card_width=350&height=160)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanghui5801&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&card_width=350&height=160)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wanghui5801&theme=tokyonight&hide_border=true&card_width=350&height=140)
 
 </div>
 
 ![](https://github-profile-trophy.vercel.app/?username=wanghui5801&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=0&title_padding=0&h=180)
 
 </div>
+
+<div align="center">
+  
+### 🎮 Take a Break and Play
+  
+[![Snake Game](https://img.shields.io/badge/Snake-Game-green?style=for-the-badge&logo=github)](https://github.com/wanghui5801)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanghui5801/wanghui5801/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanghui5801/wanghui5801/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wanghui5801/wanghui5801/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
