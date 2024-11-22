@@ -3,7 +3,7 @@ Hi there!  🌈
 I'm a MPhil student at Monash University, interested in statistics and mathematical modelling. I really love programming and I'm learning to be a good researcher. Also, I'm becoming a qualified `MJJ` (a Chinese internet slang term for tech enthusiast).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hui-wang-29b30029b/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:huiw1128@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huiw1128@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_FRaLycAAAAJ&hl=en)
 
 Here are some of my packages:
@@ -31,8 +31,8 @@ Futhermore, I'm working on some of my papers recently, see as follows:
 
 | Title | Description | Journal | Status| Paper|
 |-------|-------------|---------|------|------|
-| patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | Published | [![Paper](https://img.shields.io/badge/Paper-SSRN-blue?style=flat-square)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221) |
+| patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | Published | [![Paper](https://img.shields.io/badge/Paper-SSRN-blue?style=for-the-badge)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221) |
 | Exploring the value of green: The impact factors on China's second-hand green housing prices based on geographically weighted Lasso regression | A model about bootstrap improved geographically weighted regression. | Pacific-Basin Finance Journal | With Editor |  |
 | The Impact of International Crude Oil on the China's Commodity Markets: An Idiosyncratic Perspective | A model about the generalized dynamic factor model and spillover effect analysis. | Energy Economics | Under Review |  |
-| Environmental forcing and policy synergy: A multidimensional approach in the governance of air pollution and carbon emission | A model about causal-graph network with MMD and independent test. | Environmental Research | Published | [![Paper](https://img.shields.io/badge/Paper-Elsevier-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S0013935124016529) |
-| Hedging the climate change risks of China's brown assets: Green assets or precious metals? | A model about how to construct climate change risk index with transition risk and physical risk by text mining, and then hedge them in commidity market. | International Review of Economics & Finance | Published | [![Paper](https://img.shields.io/badge/Paper-Elsevier-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1059056024004180) |
+| Environmental forcing and policy synergy: A multidimensional approach in the governance of air pollution and carbon emission | A model about causal-graph network with MMD and independent test. | Environmental Research | Published | [![Paper](https://img.shields.io/badge/Paper-Elsevier-orange?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S0013935124016529) |
+| Hedging the climate change risks of China's brown assets: Green assets or precious metals? | A model about how to construct climate change risk index with transition risk and physical risk by text mining, and then hedge them in commidity market. | International Review of Economics & Finance | Published | [![Paper](https://img.shields.io/badge/Paper-Elsevier-orange?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S1059056024004180) |
