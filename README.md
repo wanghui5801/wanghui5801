@@ -49,7 +49,7 @@ I'm a MPhil student at Monash University, interested in statistics and mathemati
 <details>
 <summary><h3><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Publications" width="25" height="25" style="fill: white"/> Recent Publications</h3></summary>
 
-| Title | Description | Journal | Status| Paper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Title | Description | Journal | Status| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paper &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |-------|-------------|---------|------|:-------------------:|
 | patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | Published | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221"><img src="https://img.shields.io/badge/SSRN-4e73df?style=for-the-badge&logoWidth=40" width="150"></a> |
 | Exploring the value of green: The impact factors on China's second-hand green housing prices based on geographically weighted Lasso regression | A model about bootstrap improved geographically weighted regression. | Pacific-Basin Finance Journal | With<br>Editor |  |
