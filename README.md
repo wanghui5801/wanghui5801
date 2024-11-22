@@ -44,11 +44,11 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghui5801&layout=compact&theme=tokyonight&hide_border=true&card_width=400&height=200)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wanghui5801&theme=tokyonight&hide_border=true&card_width=400&height=200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghui5801&layout=compact&theme=tokyonight&hide_border=true&card_width=350&height=180)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wanghui5801&theme=tokyonight&hide_border=true&card_width=350&height=180)
 
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=wanghui5801&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=0&width=800)
+![](https://github-profile-trophy.vercel.app/?username=wanghui5801&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=0&title_padding=0&h=180)
 
 </div>
