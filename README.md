@@ -6,10 +6,8 @@ I'm a MPhil student at Monash University, interested in statistics and mathemati
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huiw1128@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_FRaLycAAAAJ&hl=en)
 
-Here are some of my packages:
-
-
-- Python Packages
+<details>
+<summary><h3>🐍 Python Packages</h3></summary>
 
 | Python Packages | Description | Downloads | Languages |
 |-----------------|-------------|-----------|-----------|
@@ -17,11 +15,16 @@ Here are some of my packages:
 | [usmerge](https://pypi.org/project/usmerge/) | A Python package for data discretization. | ![Downloads](https://static.pepy.tech/badge/usmerge) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [tsdss](https://pypi.org/project/tsdss/) | A Python package for time series analysis. | ![Downloads](https://static.pepy.tech/badge/tsdss) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)|
 
-- R Packages
+</details>
+
+<details>
+<summary><h3>📊 R Packages</h3></summary>
 
 | R Packages | Description | Downloads | Languages |
 |------------|-------------|-----------|-----------|
 | [patterncausality](https://CRAN.R-project.org/package=patterncausality) | A R package for pattern causality analysis. | ![CRAN Downloads](https://cranlogs.r-pkg.org/badges/grand-total/patterncausality) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
+
+</details>
 
 As for the packages for pattern causality analysis, I strongly recommend you to use the **Python** version, it runs much more faster and is more convenient.
 
