@@ -14,7 +14,7 @@ I'm a MPhil student at Monash University, interested in statistics and mathemati
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huiw1128@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_FRaLycAAAAJ&hl=en)
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="Snake" width="25" /> Python Packages</h3>
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/> Python Packages</h3>
 
 | Python Packages | Description | Downloads | Languages |
 |-----------------|-------------|-----------|-----------|
@@ -22,7 +22,7 @@ I'm a MPhil student at Monash University, interested in statistics and mathemati
 | [usmerge](https://pypi.org/project/usmerge/) | A Python package for data discretization. | ![Downloads](https://static.pepy.tech/badge/usmerge) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [tsdss](https://pypi.org/project/tsdss/) | A Python package for time series analysis. | ![Downloads](https://static.pepy.tech/badge/tsdss) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)|
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> R Packages</h3>
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="25" height="25"/> R Packages</h3>
 
 | R Packages | Description | Downloads | Languages |
 |------------|-------------|-----------|-----------|
@@ -30,7 +30,7 @@ I'm a MPhil student at Monash University, interested in statistics and mathemati
 
 As for the packages for pattern causality analysis, I strongly recommend you to use the **Python** version, it runs much more faster and is more convenient.
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Skills & Tools</h3>
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Tools" width="25" height="25"/> Skills & Tools</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -40,14 +40,14 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="25" /> My Websites</h3>
+<h3><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" alt="Web" width="25" height="25" style="fill: #white"/> My Websites</h3>
 
 [![Personal Website](https://img.shields.io/badge/Personal_Website-huiw.org-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://huiw.org)
 [![VPS Monitor](https://img.shields.io/badge/VPS_Monitor-Status-2196F3?style=for-the-badge&logo=server&logoColor=white)](https://vps.1101949.xyz)
 [![Temperature Monitor](https://img.shields.io/badge/Temperature_Monitor-Data-FF5722?style=for-the-badge&logo=temperature&logoColor=white)](https://amtemp.top)
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" /> Recent Publications</h3></summary>
+<summary><h3><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Publications" width="25" height="25" style="fill: #white"/> Recent Publications</h3></summary>
 
 | Title | Description | Journal | Status| Paper|
 |-------|-------------|---------|------|------|
