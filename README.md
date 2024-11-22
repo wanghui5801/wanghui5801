@@ -40,4 +40,12 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghui5801&hide_progress=true)
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghui5801&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wanghui5801&theme=tokyonight&hide_border=true)
+
+![](https://github-profile-trophy.vercel.app/?username=wanghui5801&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
