@@ -30,7 +30,7 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 
 | Title | Description | Journal | Status| Paper|
 |-------|-------------|---------|------|------|
-| patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | Published | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221"><img src="https://img.shields.io/badge/SSRN-4e73df?style=for-the-badge&logoWidth=80" width="140"></a> |
+| patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | Published | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221"><img src="https://img.shields.io/badge/SSRN-4e73df?style=for-the-badge&logoWidth=80" width="80"></a> |
 | Exploring the value of green: The impact factors on China's second-hand green housing prices based on geographically weighted Lasso regression | A model about bootstrap improved geographically weighted regression. | Pacific-Basin Finance Journal | With Editor |  |
 | The Impact of International Crude Oil on the China's Commodity Markets: An Idiosyncratic Perspective | A model about the generalized dynamic factor model and spillover effect analysis. | Energy Economics | Under Review |  |
 | Environmental forcing and policy synergy: A multidimensional approach in the governance of air pollution and carbon emission | A model about causal-graph network with MMD and independent test. | Environmental Research | Published | <a href="https://www.sciencedirect.com/science/article/pii/S0013935124016529"><img src="https://img.shields.io/badge/Elsevier-ff7043?style=for-the-badge&logoWidth=80" width="140"></a> |
