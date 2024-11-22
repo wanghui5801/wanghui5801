@@ -28,7 +28,7 @@ I'm a MPhil student at Monash University, interested in statistics and mathemati
 |------------|-------------|-----------|-----------|
 | [patterncausality](https://CRAN.R-project.org/package=patterncausality) | A R package for pattern causality analysis. | ![CRAN Downloads](https://cranlogs.r-pkg.org/badges/grand-total/patterncausality) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
 
-As for the packages for pattern causality analysis, I strongly recommend you to use the **Python** version, it runs much more faster and is more convenient.
+> **💡 Note:** As for the packages for pattern causality analysis, I strongly recommend you to use the **Python** version, it runs much more faster and is more convenient.
 
 <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Tools" width="25" height="25"/> Skills & Tools</h3>
 
@@ -42,17 +42,17 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 
 <h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Web" width="25" height="25"/> My Websites</h3>
 
-[![Personal Website](https://img.shields.io/badge/Personal_Website-huiw.org-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://huiw.org)
-[![VPS Monitor](https://img.shields.io/badge/VPS_Monitor-Status-2196F3?style=for-the-badge&logo=server&logoColor=white)](https://vps.1101949.xyz)
-[![Temperature Monitor](https://img.shields.io/badge/Temperature_Monitor-Data-FF5722?style=for-the-badge&logo=temperature&logoColor=white)](https://amtemp.top)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-huiw.org-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://huiw.org "Visit my personal website")
+[![VPS Monitor](https://img.shields.io/badge/VPS_Monitor-Status-2196F3?style=for-the-badge&logo=server&logoColor=white)](https://vps.1101949.xyz "Check VPS status")
+[![Temperature Monitor](https://img.shields.io/badge/Temperature_Monitor-Data-FF5722?style=for-the-badge&logo=temperature&logoColor=white)](https://amtemp.top "View temperature data")
 
 <details>
-<summary><h3><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Publications" width="25" height="25" style="fill: #white"/> Recent Publications</h3></summary>
+<summary><h3><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Publications" width="25" height="25" style="fill: white"/> Recent Publications</h3></summary>
 
 | Title | Description | Journal | Status| Paper|
 |-------|-------------|---------|------|------|
-| patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | Published | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221"><img src="https://img.shields.io/badge/SSRN-4e73df?style=for-the-badge&logoWidth=40" width="100"></a> |
-| Exploring the value of green: The impact factors on China's second-hand green housing prices based on geographically weighted Lasso regression | A model about bootstrap improved geographically weighted regression. | Pacific-Basin Finance Journal | With Editor |  |
+| patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | ![Status](https://img.shields.io/badge/Published-success?style=flat-square) | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221"><img src="https://img.shields.io/badge/SSRN-4e73df?style=for-the-badge&logoWidth=40" width="100"></a> |
+| Exploring the value of green: The impact factors on China's second-hand green housing prices based on geographically weighted Lasso regression | A model about bootstrap improved geographically weighted regression. | Pacific-Basin Finance Journal | ![Status](https://img.shields.io/badge/With_Editor-yellow?style=flat-square) |  |
 | The Impact of International Crude Oil on the China's Commodity Markets: An Idiosyncratic Perspective | A model about the generalized dynamic factor model and spillover effect analysis. | Energy Economics | Under Review |  |
 | Environmental forcing and policy synergy: A multidimensional approach in the governance of air pollution and carbon emission | A model about causal-graph network with MMD and independent test. | Environmental Research | Published | <a href="https://www.sciencedirect.com/science/article/pii/S0013935124016529"><img src="https://img.shields.io/badge/Elsevier-ff7043?style=for-the-badge&logoWidth=80" width="140"></a> |
 | Hedging the climate change risks of China's brown assets: Green assets or precious metals? | A model about how to construct climate change risk index with transition risk and physical risk by text mining, and then hedge them in commidity market. | International Review of Economics & Finance | Published | <a href="https://www.sciencedirect.com/science/article/pii/S1059056024004180"><img src="https://img.shields.io/badge/Elsevier-ff7043?style=for-the-badge&logoWidth=80" width="140"></a> |
