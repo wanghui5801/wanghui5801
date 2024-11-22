@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-## Hi there!  🌈
+### Hi there!  🌈
 
 I'm a MPhil student at Monash University, interested in statistics and mathematical modelling. I really love programming and I'm learning to be a good researcher. Also, I'm becoming a qualified **MJJ** (a Chinese internet slang term for tech enthusiast).
 
