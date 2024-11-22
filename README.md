@@ -1,6 +1,6 @@
 Hi there!  🌈
 
-I'm a MPhil student at Monash University, interested in statistics and mathematical modelling. I really love programming and I'm learning to be a good researcher. Also, I'm becoming a qualified `MJJ` (a Chinese internet slang term for tech enthusiast).
+I'm a MPhil student at Monash University, interested in statistics and mathematical modelling. I really love programming and I'm learning to be a good researcher. Also, I'm becoming a qualified **MJJ** (a Chinese internet slang term for tech enthusiast).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hui-wang-29b30029b/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huiw1128@gmail.com)
@@ -37,3 +37,7 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 | Hedging the climate change risks of China's brown assets: Green assets or precious metals? | A model about how to construct climate change risk index with transition risk and physical risk by text mining, and then hedge them in commidity market. | International Review of Economics & Finance | Published | <a href="https://www.sciencedirect.com/science/article/pii/S1059056024004180"><img src="https://img.shields.io/badge/Elsevier-ff7043?style=for-the-badge&logoWidth=40" width="100"></a> |
 
 </details>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghui5801&hide_progress=true)
