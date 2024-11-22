@@ -49,13 +49,13 @@ I'm a MPhil student at Monash University, interested in statistics and mathemati
 <details>
 <summary><h3><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Publications" width="25" height="25" style="fill: white"/> Recent Publications</h3></summary>
 
-| Title | Description | Journal | Status| Paper|
-|-------|-------------|---------|------|------|
-| patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | Published | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221"><img src="https://img.shields.io/badge/SSRN-4e73df?style=for-the-badge&logoWidth=40" width="100"></a> |
+| Title | Description | Journal | Status| Paper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|-------|-------------|---------|------|---------|
+| patterncausality: Pattern Causality Algorithm in R | A R package intruduced for pattern causality analysis. | SSRN | Published | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4966221"><img src="https://img.shields.io/badge/SSRN-4e73df?style=for-the-badge&logoWidth=40" width="150"></a> |
 | Exploring the value of green: The impact factors on China's second-hand green housing prices based on geographically weighted Lasso regression | A model about bootstrap improved geographically weighted regression. | Pacific-Basin Finance Journal | With<br>Editor |  |
 | The Impact of International Crude Oil on the China's Commodity Markets: An Idiosyncratic Perspective | A model about the generalized dynamic factor model and spillover effect analysis. | Energy Economics | Under<br>Review |  |
-| Environmental forcing and policy synergy: A multidimensional approach in the governance of air pollution and carbon emission | A model about causal-graph network with MMD and independent test. | Environmental Research | Published | <a href="https://www.sciencedirect.com/science/article/pii/S0013935124016529"><img src="https://img.shields.io/badge/Elsevier-ff7043?style=for-the-badge&logoWidth=80" width="140"></a> |
-| Hedging the climate change risks of China's brown assets: Green assets or precious metals? | A model about how to construct climate change risk index with transition risk and physical risk by text mining, and then hedge them in commidity market. | International Review of Economics & Finance | Published | <a href="https://www.sciencedirect.com/science/article/pii/S1059056024004180"><img src="https://img.shields.io/badge/Elsevier-ff7043?style=for-the-badge&logoWidth=80" width="140"></a> |
+| Environmental forcing and policy synergy: A multidimensional approach in the governance of air pollution and carbon emission | A model about causal-graph network with MMD and independent test. | Environmental Research | Published | <a href="https://www.sciencedirect.com/science/article/pii/S0013935124016529"><img src="https://img.shields.io/badge/Elsevier-ff7043?style=for-the-badge&logoWidth=80" width="200"></a> |
+| Hedging the climate change risks of China's brown assets: Green assets or precious metals? | A model about how to construct climate change risk index with transition risk and physical risk by text mining, and then hedge them in commidity market. | International Review of Economics & Finance | Published | <a href="https://www.sciencedirect.com/science/article/pii/S1059056024004180"><img src="https://img.shields.io/badge/Elsevier-ff7043?style=for-the-badge&logoWidth=80" width="200"></a> |
 
 </details>
 
