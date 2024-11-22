@@ -40,7 +40,7 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" alt="Web" width="25" height="25" style="fill: #white"/> My Websites</h3>
+<h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Web" width="25" height="25"/> My Websites</h3>
 
 [![Personal Website](https://img.shields.io/badge/Personal_Website-huiw.org-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://huiw.org)
 [![VPS Monitor](https://img.shields.io/badge/VPS_Monitor-Status-2196F3?style=for-the-badge&logo=server&logoColor=white)](https://vps.1101949.xyz)
