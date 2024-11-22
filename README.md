@@ -9,6 +9,8 @@ Hi there!  🌈
 I'm a MPhil student at Monash University, interested in statistics and mathematical modelling. I really love programming and I'm learning to be a good researcher. Also, I'm becoming a qualified **MJJ** (a Chinese internet slang term for tech enthusiast).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hui-wang-29b30029b/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harryw1128)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-0095-0243)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huiw1128@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_FRaLycAAAAJ&hl=en)
 
@@ -49,6 +51,8 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -68,16 +72,3 @@ As for the packages for pattern causality analysis, I strongly recommend you to 
 </div>
 
 <div align="center">
-  
-### 🎮 Take a Break and Play
-  
-[![Snake Game](https://img.shields.io/badge/Snake-Game-green?style=for-the-badge&logo=github)](https://github.com/wanghui5801)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanghui5801/wanghui5801/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanghui5801/wanghui5801/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wanghui5801/wanghui5801/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
