@@ -64,15 +64,9 @@ I'm a MPhil student at Monash University, interested in statistics and mathemati
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 10px;">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghui5801&layout=compact&theme=tokyonight&hide_border=true&card_width=350&height=160&hide=html,jupyter%20notebook,powershell,lua,css)
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=wanghui5801&hide=contribs&show_icons=true&theme=tokyonight&hide_border=true&card_width=350&height=160)
 
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=wanghui5801&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=0&title_padding=0&h=180)
-
-</div>
-
-<div align="center">
